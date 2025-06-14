@@ -15,7 +15,7 @@ load_dotenv()
 
 MONGODB_URL = os.getenv('MONGODB_URL')
 
-class DataIngestion():
+class DataIngestion:
     def __init__(self, data_ingestion_config:DataIngestionConfig):
         try:
             self.data_ingestion_config = data_ingestion_config
