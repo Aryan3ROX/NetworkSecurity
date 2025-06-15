@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/agary/Desktop/Heh/Work/Machine Learning/NetworkSecurity/mlruns/0/models/m-6302a3893fd74d258b5a1065718add21/artifacts
+creation_timestamp: 1750008694556
+experiment_id: '0'
+last_updated_timestamp: 1750008704508
+model_id: m-6302a3893fd74d258b5a1065718add21
+model_type: null
+name: model
+source_run_id: 88d331ec5aec4164bf4fb0bcc8ce8850
+status: 2
+status_message: null
